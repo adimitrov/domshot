@@ -17,3 +17,6 @@ Example:
 ```
 phantomjs domshot.js http://google.com .news output.png
 ```
+
+## About
+Inspired by: http://blog.parsely.com/post/34241210620/whatever-it-takes
